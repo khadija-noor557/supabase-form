@@ -215,11 +215,7 @@ body {
   background-color: #e2ebf8;
 }
 
-.login-parent{
-  display: flex !important;
-  justify-content: center;
-  align-items: center;
-}
+
 
 .parent {
   display: flex !important;
