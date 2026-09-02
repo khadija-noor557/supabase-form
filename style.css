@@ -116,7 +116,7 @@
   margin-top: 20px;
 }
 
-/* enrolled studentr Cards */
+/* enrolled students Cards */
 
 #students .card {
   border: none;
@@ -125,6 +125,7 @@
   background: #ffffff;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
   transition: 0.3s ease;
+  
 }
 
 #students .card:hover {
@@ -153,6 +154,7 @@
 }
 
 .editBtn {
+  margin-bottom: 10px;
   background-color: rgb(95, 91, 163);
   color: #ffffff;
 }
@@ -166,10 +168,12 @@
 
 .card {
   height: 100%;
+ 
 }
 
 .card-body {
   min-height: 250px;
+  
 }
 
 /* REGISTER PAGE */
