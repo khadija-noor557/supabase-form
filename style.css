@@ -125,7 +125,7 @@
   background: #ffffff;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
   transition: 0.3s ease;
-  
+
 }
 
 #students .card:hover {
@@ -168,12 +168,12 @@
 
 .card {
   height: 100%;
- 
+
 }
 
 .card-body {
   min-height: 250px;
-  
+
 }
 
 /* REGISTER PAGE */
@@ -215,8 +215,14 @@ body {
   background-color: #e2ebf8;
 }
 
-.parent{
-display: flex !important;
+.login-parent{
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+}
+
+.parent {
+  display: flex !important;
   justify-content: center;
   align-items: center;
 }
@@ -224,7 +230,7 @@ display: flex !important;
 .reContainer {
   display: flex !important;
   justify-content: center;
-  align-items: center;  
+  align-items: center;
   width: 800px;
   height: 480px;
   background: #fff;
@@ -289,7 +295,7 @@ display: flex !important;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center !important; 
+  align-items: center !important;
   padding: 0 40px;
 }
 
