@@ -9,16 +9,16 @@ This project allows users to easily add, view, update, and delete student record
 
 ## 📸 Project Preview
 
-### home Page
-![home Page](<img width="1363" height="644" alt="image" src="https://github.com/user-attachments/assets/c6489c46-ecea-47eb-a9cb-0ca2bf77b31c" />
+### 🏠 Home Page
+![Home Page](./<img width="1363" height="644" alt="image" src="https://github.com/user-attachments/assets/c2315309-e087-49d0-abc4-abdb7413ff2a" />
 )
 
-### Registration Page
-![Registration Page](<img width="1354" height="637" alt="image" src="https://github.com/user-attachments/assets/77d8cfbf-eb42-49c0-86cf-dbe0b61520c0" />
+### 📝 Registration Page
+![Registration Page](./<img width="1354" height="637" alt="image" src="https://github.com/user-attachments/assets/58360ef0-841c-41d6-b5a8-d02f29fa1416" />
 )
 
-### Enrolled Students
-![Enrolled Students](<img width="1341" height="641" alt="image" src="https://github.com/user-attachments/assets/abce451a-0c1e-4306-8828-c1395c875b60" />
+### 👥 Enrolled Students
+![Enrolled Students](./<img width="1341" height="641" alt="image" src="https://github.com/user-attachments/assets/341fae3a-d29a-4fa3-8bc7-85215d0434d5" />
 )
 
 ## ✨ Features
